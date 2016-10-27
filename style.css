@@ -1,0 +1,19 @@
+body{
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	font-size: 3rem;
+	background-image: url(img/ming.jpg);
+	background-size: cover;
+}
+h1{
+	font-family: 'Londrina Outline', cursive;
+	font-size: 5rem;
+	text-align: center;
+}
+li{
+	margin-bottom: 2px;
+	padding:0.5rem;]
+	list-style:none;
+	background-color: pink;
+	display:inline-block;
+}
